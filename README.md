@@ -137,7 +137,7 @@ if __name__ == '__main__':
 
 **Шаг 5.** Напишите single task playbook и используйте module в нём.
 
-![Single task](https://github.com/deadwhitepunk/hw-ansible-06/blob/main/img/ansible_singe_playbook.png)
+![Single task](https://github.com/deadwhitepunk/hw-ansible-06/blob/main/img/ansible_single_playbook.png)
 
 **Шаг 6.** Проверьте через playbook на идемпотентность.
 
